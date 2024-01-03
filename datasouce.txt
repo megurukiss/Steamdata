@@ -1,0 +1,4 @@
+https://github.com/leinstay/steamdb/blame/main/steamdb.json
+https://www.kaggle.com/datasets/nikdavis/steam-store-games/
+https://www.kaggle.com/datasets/danieliusv/steam-games-genres
+https://www.kaggle.com/datasets/tamber/steam-video-games
